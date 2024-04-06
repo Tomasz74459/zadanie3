@@ -1,0 +1,5 @@
+C:\Users\GM Cedry Wielkie\Desktop\zadanie3\obj\Debug\net7.0\fileeStream.csproj.AssemblyReference.cache
+C:\Users\GM Cedry Wielkie\Desktop\zadanie3\obj\Debug\net7.0\fileeStream.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GM Cedry Wielkie\Desktop\zadanie3\obj\Debug\net7.0\fileeStream.AssemblyInfoInputs.cache
+C:\Users\GM Cedry Wielkie\Desktop\zadanie3\obj\Debug\net7.0\fileeStream.AssemblyInfo.cs
+C:\Users\GM Cedry Wielkie\Desktop\zadanie3\obj\Debug\net7.0\fileeStream.csproj.CoreCompileInputs.cache

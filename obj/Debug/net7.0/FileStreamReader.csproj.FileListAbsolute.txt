@@ -1,0 +1,15 @@
+C:\Users\GM Cedry Wielkie\Desktop\zadanie3\bin\Debug\net7.0\FileStreamReader.exe
+C:\Users\GM Cedry Wielkie\Desktop\zadanie3\bin\Debug\net7.0\FileStreamReader.deps.json
+C:\Users\GM Cedry Wielkie\Desktop\zadanie3\bin\Debug\net7.0\FileStreamReader.runtimeconfig.json
+C:\Users\GM Cedry Wielkie\Desktop\zadanie3\bin\Debug\net7.0\FileStreamReader.dll
+C:\Users\GM Cedry Wielkie\Desktop\zadanie3\bin\Debug\net7.0\FileStreamReader.pdb
+C:\Users\GM Cedry Wielkie\Desktop\zadanie3\obj\Debug\net7.0\FileStreamReader.csproj.AssemblyReference.cache
+C:\Users\GM Cedry Wielkie\Desktop\zadanie3\obj\Debug\net7.0\FileStreamReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GM Cedry Wielkie\Desktop\zadanie3\obj\Debug\net7.0\FileStreamReader.AssemblyInfoInputs.cache
+C:\Users\GM Cedry Wielkie\Desktop\zadanie3\obj\Debug\net7.0\FileStreamReader.AssemblyInfo.cs
+C:\Users\GM Cedry Wielkie\Desktop\zadanie3\obj\Debug\net7.0\FileStreamReader.csproj.CoreCompileInputs.cache
+C:\Users\GM Cedry Wielkie\Desktop\zadanie3\obj\Debug\net7.0\FileStreamReader.dll
+C:\Users\GM Cedry Wielkie\Desktop\zadanie3\obj\Debug\net7.0\refint\FileStreamReader.dll
+C:\Users\GM Cedry Wielkie\Desktop\zadanie3\obj\Debug\net7.0\FileStreamReader.pdb
+C:\Users\GM Cedry Wielkie\Desktop\zadanie3\obj\Debug\net7.0\FileStreamReader.genruntimeconfig.cache
+C:\Users\GM Cedry Wielkie\Desktop\zadanie3\obj\Debug\net7.0\ref\FileStreamReader.dll
